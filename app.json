@@ -1,0 +1,14 @@
+{
+ "expo": {
+    "name": "react-events",
+    "slug": "react-events",
+    "sdkVersion": "26.0.0",
+    "privacy": "public",
+    "ios": {
+      "bundleIdentifier": "org.test"
+    },
+    "android": {
+      "package": "org.test"
+    }
+  }
+}
